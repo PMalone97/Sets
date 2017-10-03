@@ -1,2 +1,2 @@
 # Sets
-Homework for class
+made for personal use in discrete math class
