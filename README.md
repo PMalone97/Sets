@@ -1,2 +1,2 @@
 # Sets
-made for personal use in discrete math class
+Made for personal use in discrete math class
